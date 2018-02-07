@@ -2,6 +2,7 @@
   "name": "community",
   "version": "1.0.0",
   "description": "*Manifest repository for VCV Rack plugins*",
+  "license": "CC-BY-4.0",
   "scripts": {
     "test": "jasmine"
   },
