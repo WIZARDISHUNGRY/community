@@ -7,4 +7,4 @@ before_install:
 - git fetch
 
 before_script:
-- yarn danger ci
+- DEBUG="*" yarn danger ci
