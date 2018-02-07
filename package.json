@@ -19,9 +19,9 @@
     "hash-files": "^1.1.1",
     "jasmine": "^2.8.0",
     "node-virustotal": "^2.4.2",
-    "request": "^2.83.0"
+    "request": "^2.83.0",
+    "danger": "^3.1.4"
   },
   "dependencies": {
-    "danger": "^3.1.4"
   }
 }
