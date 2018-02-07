@@ -20,5 +20,8 @@
     "jasmine": "^2.8.0",
     "node-virustotal": "^2.4.2",
     "request": "^2.83.0"
+  },
+  "dependencies": {
+    "danger": "^3.1.4"
   }
 }
